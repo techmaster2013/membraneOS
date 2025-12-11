@@ -1,38 +1,24 @@
 
-# `WE NEED TO SEEK FUNDING FOR DOMAIN! SEE DOMAIN IDEAS FOR MORE DETAILS`
-## NautilusOS
+# `WE ARE NOT ASSOCIATED WITH NautilusOS IN ANY WAY`
 
-NautilusOS is a web-based operating system built entirely in HTML, CSS, and JS.
-Boot it up, log in, and mess around like it’s a real desktop with proxies, games, apps, an app store, windows, a file explorer, taskbar, and more.
+# THIS IS BETA SOFTWARE: THIS IS NOT A FINISHED REPOSITORY!
+
+## membraneOS (Modified from NautilusOS)
+
+membraneOS is a fork of NautilusOS, and is a web-based operating system built in HTML, CSS, and JS.
+Boot it up, log in, and mess around like it’s a real desktop with web browsers, games, apps, an app store, windows, a file explorer, taskbar, and more!
 
 ---
 
 ## DEPLOY ME!!
 
-Make your own vercel.app instance of NautilusOS with this handy button!
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnautilus-os%2FNautilusOS)
-
-You can also do this with Netlify!
+Fork your own version of NautilusOS with this handy button!
 
 [![Deploy with Netlify](https://netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nautilus-os/nautilusos)
 
-
-You can also deploy NautilusOS in a Github Codespace:
-
-1. click on the green code button in this repo
-2. click on the codespaces tab
-3. create a new codespace by clicking the "Create codespace on main" button
-4. navagate to the terminal near the bottom and run `python3 -m http.server 8080`
-5. click the "Make Public" option in the popup that shows up, or go to the Ports tab, right click on 8080, hover on "Port Visiblity" and click "Public"
-6. click on the Forwarded Address in the Ports tab. it should look something like `https://<your-repo-name>-<random-id>.<your-username>.github.dev`
-7. boom! use your temorary link for its full 30 minute lifetime!
-
-*To extend the life of your codespace link visit your profile settings, go to the Codespaces tab, and change the "Default idle timeout" time from 30 minutes to 240 minutes, which is the maximum time.
-
 ---
 
-## ✨ features
+## ✨ Features included in membraneOS
 
 There’s a ton of stuff to play with, but here’s a quick rundown (seriously, check them all out yourself):
 
@@ -53,42 +39,27 @@ There’s a ton of stuff to play with, but here’s a quick rundown (seriously, 
 - exportable/importable profiles
 - AI-powered OS automation - NautilusOS comes prepackaged with a built in AI assistant capable of both answering your questions AND controlling your OS! (with your approval ofc)
 
-Basically... a whole little OS in your browser :D
+Basically, a little operating system in your browser. Pretty cool, right?
 
 ---
 
-## 🚧 todos
+## 🚧 todos (updated by NautilusOS creator)
 
 - [ ] App store improvements (right now it can only install built-in apps not stuff from community repo)
-- [x] fix fonts not loading in onefile
 - [ ] fix light theme gosh it sucks
 - [ ] fix bug where if too many apps are open it randomly flashes black
-- [x] fix bug in cloaking where the unblack delay and the actual anti monitering toggles are linked
 - [ ] if u hit login in without choosing an existing accoutnit just picks the first one, should ask u to pick an acc
-- [x] Add a feature to confirm page closing to stop Securly, GoGuardian, Hapara etc.
 - [ ] Add an option to increase or decrease window transparency 
 - [ ] Window animation settings
 - [ ] add option to cloak on clickpoff in basic cloaking
 - [ ] Add previews to all apps and themes
 - [ ] Make music player search with itunes and play with ub youtube
 - [ ] Add a scramjet proxy (xor)
-- [x] Wisp server selection (dinguschan)
 - [ ] Add illustrations already in css to js for apps and games. themes already added
-- [x] Don't show any toast notifs until logging in, bootloader shoudl be free of notifs (change to aysnc functions n delay)
-- [x] fix key capturing apps not stopping capturing when switching apps
-- [x] add anti-monitering section to cloaking
 - [ ] add option to upload custom image to tab blackout for monitering extensions
 
 *Completed tasks remain visible for ~24 hours before being manully cleared.*
 
----
-
-## 🌐 domain ideas
-
-- `nautilusos.app` $14.20/year at cloudflare or
-- `nautilusos.me` $2.99/first year at dreamhost
-- `nautliusos.xyz` $2.00/year at namecheap (some 90% off deal)
-- `nautiluson.top` $4.63/year at porkbun
 ---
 
 ## 🖼 screenshots (this is like 5% of the entire project, check it out to see it all yourself!!)
@@ -122,7 +93,7 @@ Open the NautilusOS-OneFile/index.html file in your browser. That’s it.
 
 Developed by dinguschan, x8rr, and lanefiedler-731
 
-## IF YOU ARE FORKING
+## IF YOU ARE FORKING FROM NautilusOS
 **License compliance notice (AGPL-3.0 §5):**
 If you fork or redistribute NautilusOS, you must:
  - Keep our copyright & license files intact.
