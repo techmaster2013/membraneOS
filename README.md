@@ -1,12 +1,18 @@
+# Disclaimer
 
-# `WE ARE NOT ASSOCIATED WITH NautilusOS IN ANY WAY`
+### membraneOS is an independent project and is not affiliated with, endorsed by, or legally associated with NautilusOS in any way.
 
-# THIS IS BETA SOFTWARE: THIS IS NOT A FINISHED REPOSITORY!
+## Project Status
 
-## membraneOS (Modified from NautilusOS)
+#### This is beta software.
+#### The repository is under active development, features are incomplete, and breaking changes should be expected.
 
-membraneOS is a fork of NautilusOS, and is a web-based operating system built in HTML, CSS, and JS.
-Boot it up, log in, and mess around like it’s a real desktop with web browsers, games, apps, an app store, windows, a file explorer, taskbar, and more!
+# About membraneOS
+
+### membraneOS is a modified derivative of NautilusOS, created for experimentation and development purposes.
+
+##### membraneOS is a fork of NautilusOS, and is a web-based operating system built in HTML, CSS, and JS.
+##### Boot it up, log in, and mess around like it’s a real desktop with web browsers, games, apps, an app store, windows, a file explorer, taskbar, and more!
 
 ---
 
